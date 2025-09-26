@@ -1,0 +1,9 @@
+package com.registration;
+import com.registration.RegistrationForm;
+
+public class TestRegistrationForm {
+	public static void main(String[] args) {
+        new RegistrationForm();
+    }
+
+}
